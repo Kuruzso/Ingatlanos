@@ -1,0 +1,10 @@
+Budapest	III. kerület	1580000	420	7061
+Budapest	III. kerület	1580000	400	1815
+Budapest	III. kerület	1580000	410	7719
+Budapest	III. kerület	1570000	415	4299
+Csólyospálos	I. kerület	570000	300	3805
+Csólyospálos	Észak-Nyugati városrész	210000	110	1654
+Kaposvár	Észak-Nyugati városrész	1990000	50	4889
+Budapest	XII. kerület	380000	149	6290
+Budapest	XVIII. kerület	780000	52	6666
+Székesfehérvár	Vezér és író utcák környéke	780000	47	3881
